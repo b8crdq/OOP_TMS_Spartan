@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP_TMS_Spartan/1.0.0": {
+        "runtime": {
+          "OOP_TMS_Spartan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_TMS_Spartan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

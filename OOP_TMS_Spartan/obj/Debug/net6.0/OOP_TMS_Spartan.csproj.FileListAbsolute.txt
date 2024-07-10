@@ -1,0 +1,30 @@
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.exe
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.deps.json
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.runtimeconfig.json
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.pdb
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.csproj.AssemblyReference.cache
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.AssemblyInfoInputs.cache
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.AssemblyInfo.cs
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.csproj.CoreCompileInputs.cache
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\refint\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.pdb
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.genruntimeconfig.cache
+C:\Users\TAIHA\Desktop\Assignment2\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\ref\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.exe
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.deps.json
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.runtimeconfig.json
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\bin\Debug\net6.0\OOP_TMS_Spartan.pdb
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.csproj.AssemblyReference.cache
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.AssemblyInfoInputs.cache
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.AssemblyInfo.cs
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.csproj.CoreCompileInputs.cache
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\refint\OOP_TMS_Spartan.dll
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.pdb
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\OOP_TMS_Spartan.genruntimeconfig.cache
+C:\Users\TAIHA\Desktop\Work Files\OOP_TMS_Spartan\OOP_TMS_Spartan\obj\Debug\net6.0\ref\OOP_TMS_Spartan.dll
